@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Khankhoje</h1>
 <h3 align="center">A passionate CSE student from SRMIST KTR, India</h3>
 
-- 🔭 I’m currently working on **Fine-tuning LLMs**
+- 🔭 I’m currently working on: **Fine-tuning LLMs**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning: **Tailwind CSS**
 
 - 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **siddheshkhankhoje@gmail.com**
+- 📫 How to reach me: **siddheshkhankhoje@gmail.com**
 
 - ⚡ Fun fact: **I am obsessed with cars**
 
