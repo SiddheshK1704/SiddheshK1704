@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **siddheshkhankhoje@gmail.com**
 
-- ⚡ Fun fact: **I am obsessed with cars**
+- ⚡ Fun fact: **I am obsessed with cars!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
