@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Khankhoje</h1>
 <h3 align="center">A passionate Student from SRMIST KTR, India</h3>
 
-- 🔭 I’m currently working on: **Learning Python and ML**
+- 🔭 I’m currently working on: **Building Robust Projects**
 
-- 🌱 I’m currently learning: **JS**
+- 🌱 I’m currently learning: **Python, ML and JS**
 
 - 🤝 I’m looking for help with: **DSA**
 
