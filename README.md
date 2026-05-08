@@ -1,62 +1,114 @@
-<h1 align="center">Hi, I’m Siddhesh Khankhoje</h1>
-<h3 align="center">CSE (AI & ML) student @ SRM Institute of Science and Technology</h3>
+<div align="center">
 
-<p align="center">
-I enjoy building clean, thoughtful projects across web development and machine learning.
-Driven by curiosity, consistency, and a strong appreciation for good design.
-</p>
+```
+███████╗██╗██████╗ ██████╗ ██╗  ██╗███████╗███████╗██╗  ██╗
+██╔════╝██║██╔══██╗██╔══██╗██║  ██║██╔════╝██╔════╝██║  ██║
+███████╗██║██║  ██║██║  ██║███████║█████╗  ███████╗███████║
+╚════██║██║██║  ██║██║  ██║██╔══██║██╔══╝  ╚════██║██╔══██║
+███████║██║██████╔╝██████╔╝██║  ██║███████╗███████║██║  ██║
+╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
----
+# Hey, I'm Siddhesh Khankhoje 👋
 
-### 🚧 What I’m working on
-- Building end-to-end frontend and ML-focused projects  
-- Strengthening fundamentals through hands-on development  
+**CSE (AI & ML) · SRM Institute of Science and Technology**
 
-### 🌱 Currently learning
-- Python & Machine Learning  
-- JavaScript (modern frontend)  
-- Data Structures & Algorithms  
+*Building clean, thoughtful software at the intersection of web and intelligence.*
 
-### 💡 Interests
-- Clean UI & UX (Tailwind CSS)  
-- Problem solving through code  
-- Automotive engineering & motorsport  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/siddheshk07)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/siddheshk_17)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddheshkhankhoje@gmail.com)
 
-### 📫 Contact
-- **Email:** siddheshkhankhoje@gmail.com  
+</div>
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://twitter.com/siddheshk07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
-  </a>
-  <a href="https://instagram.com/siddheshk_17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
-  </a>
-</p>
+## 🧭 About Me
+
+```yaml
+name:       Siddhesh Khankhoje
+location:   India
+education:  B.Tech CSE (AI & ML) @ SRM IST
+focus:      Frontend Engineering + Machine Learning
+philosophy: "Learning by building. Focused on progress, not buzzwords."
+```
+
+I enjoy building clean, thoughtful projects across **web development** and **machine learning** — driven by curiosity, consistency, and a strong appreciation for good design. When I'm not coding, you'll find me geeking out over automotive engineering and motorsport.
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-</p>
+## 🚀 What I'm Up To
+
+- 🔨 &nbsp;Building end-to-end **frontend** and **ML-focused** projects
+- 📚 &nbsp;Deepening fundamentals through hands-on development
+- 🧩 &nbsp;Grinding **Data Structures & Algorithms**
+- 🌐 &nbsp;Exploring modern **JavaScript** patterns and tooling
 
 ---
 
-<p align="center">
-<i>Learning by building. Focused on progress, not buzzwords.</i>
-</p>
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💡 Interests
+
+| Area | Details |
+|------|---------|
+| 🎨 **UI/UX Design** | Clean interfaces with Tailwind CSS; obsessed with spacing, typography, and micro-interactions |
+| 🤖 **Machine Learning** | Building and understanding models end-to-end |
+| 🏎️ **Motorsport** | F1, automotive engineering — precision at high speed (in code and on track) |
+| 🧠 **Problem Solving** | DSA, competitive thinking, building things that actually work |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshkhankhoje&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshkhankhoje&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddheshkhankhoje&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+Got a project idea, want to collaborate, or just say hi?
+
+**📧 siddheshkhankhoje@gmail.com**
+
+<div align="center">
+
+---
+
+*"The best way to learn something is to build with it."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=siddheshkhankhoje&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
