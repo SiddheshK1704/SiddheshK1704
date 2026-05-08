@@ -87,11 +87,11 @@ I enjoy building clean, thoughtful projects across **web development** and **mac
 
 <div align="center">
 
-![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddheshK1704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Siddhesh's GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=SiddheshK1704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshK1704&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=SiddheshK1704&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddheshK1704&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SiddheshK1704&theme=tokyonight&hide_border=true)
 
 </div>
 
