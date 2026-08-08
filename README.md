@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre align="center">
 ███████╗██╗██████╗ ██████╗ ██╗  ██╗███████╗███████╗██╗  ██╗
 ██╔════╝██║██╔══██╗██╔══██╗██║  ██║██╔════╝██╔════╝██║  ██║
 ███████╗██║██║  ██║██║  ██║███████║█████╗  ███████╗███████║
 ╚════██║██║██║  ██║██║  ██║██╔══██║██╔══╝  ╚════██║██╔══██║
 ███████║██║██████╔╝██████╔╝██║  ██║███████╗███████║██║  ██║
 ╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+</pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1DA1F2&center=true&vCenter=true&width=520&lines=Building+clean%2C+thoughtful+software;Frontend+Engineering+%2B+Machine+Learning;Learning+by+building%2C+not+buzzwords." alt="Typing SVG" />
 
