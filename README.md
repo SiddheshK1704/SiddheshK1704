@@ -9,7 +9,7 @@
 ╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1DA1F2&center=true&vCenter=true&width=520&lines=Building+intelligent+systems+%26+software+experiences;Frontend+Engineering+%2B+Machine+Learning;Learning+by+building%2C+not+buzzwords." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1DA1F2&center=true&vCenter=true&width=520&lines=Building+intelligent+systems;Frontend+Engineering+%2B+Machine+Learning;Learning+by+building%2C+not+buzzwords." alt="Typing SVG" />
 
 ### CSE (AI & ML) · SRM Institute of Science and Technology
 
